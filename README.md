@@ -1,5 +1,5 @@
 # Python-Assignments
-This repository contains solutions for Assignment-1 (Task 1 and Task 2).
+This repository contains solutions for Assignments.
 
 ### ASSIGNMENT- 01
 ## Task 1 
