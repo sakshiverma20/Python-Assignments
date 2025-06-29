@@ -27,3 +27,13 @@ This repository contains solutions for Assignments.
 - **File**: [assignment3_task2.py](./Assignment3/assignment3_task2.py)
 - **Description**: Using math module to get square root, natural logarithm and sine of the number.
 
+
+## ASSIGNMENT- 04
+### Task 1:
+- **File**:  [assignment4_task1.py](./Assignment4/assignment4_task1.py)
+- **Description**: To read a file and handle errors.
+### Task 2:
+- **File**: [assignment4_task2.py](./Assignment4/assignment4_task2.py)
+- **Description**: To write and append data to a file.
+
+
