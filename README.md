@@ -37,3 +37,12 @@ This repository contains solutions for Assignments.
 - **Description**: To write and append data to a file.
 
 
+## ASSIGNMENT- 05
+### Task 1:
+- **File**:  [assignment5_task1.py](./Assignment5/assignment5_task1.py)
+- **Description**: Created a Dictionary of Student Marks.
+### Task 2:
+- **File**: [assignment5_task2.py](./Assignment5/assignment5_task2.py)
+- **Description**: Demonstrated List Slicing.
+
+
